@@ -1,0 +1,16 @@
+total 48
+drwxr-xr-x 1 soto2571 soto2571 396 Feb 13 11:20 .
+drwxr-xr-x 1 soto2571 soto2571 114 Feb 13 09:24 ..
+-rwxr--r-- 1 soto2571 soto2571  35 Feb 13 09:31 0-hello_world
+-rwxr--r-- 1 soto2571 soto2571  28 Feb 13 09:42 1-confused_smiley
+-rwxr--r-- 1 soto2571 soto2571  28 Feb 13 09:48 2-hellofile
+-rwxr--r-- 1 soto2571 soto2571  39 Feb 13 09:52 3-twofiles
+-rwxr--r-- 1 soto2571 soto2571  29 Feb 13 09:54 4-lastlines
+-rwxr--r-- 1 soto2571 soto2571  29 Feb 13 09:56 5-firstlines
+-rwxr--r-- 1 soto2571 soto2571  40 Feb 13 10:03 6-third_line
+-rwxr--r-- 1 soto2571 soto2571 101 Feb 13 10:55 7-file
+-rwxr--r-- 1 soto2571 soto2571  36 Feb 13 11:20 8-cwd_state
+-rw-r--r-- 1 soto2571 soto2571  14 Feb 13 10:44 \*\'Best School'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 soto2571 soto2571  14 Feb 13 10:53 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 soto2571 soto2571   0 Feb 13 11:20 ls_cwd_content
+-rw-r--r-- 1 soto2571 soto2571  24 Feb 13 09:26 README.md
